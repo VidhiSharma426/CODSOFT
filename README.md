@@ -87,10 +87,9 @@ For further details and code implementation, please refer to the respective Jupy
 
 **Contact Information:**
 
-[Your Name]  
-[Your Email Address]  
-[Your Phone Number]  
-[LinkedIn Profile/Portfolio (if applicable)]  
+[vidhi sharma]  
+[vidhi2821426@gmail.com]   
+[www.linkedin.com/in/vidhi-sharma-340b22228](if applicable)]  
 
 ---
 This readme file provides an overview of the three data science projects completed during my internship at Codsoft. Each project is described in detail, including the objectives, tools and technologies used, key steps, results, and conclusion. Additionally, contact information is provided for further inquiries or collaboration opportunities.
